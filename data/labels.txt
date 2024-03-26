@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: 'pepsi'
+} 
+item {
+  id: 2
+  name: 'hotstar'
+}
+item {
+  id: 3
+  name: 'yes bank'
+}
+item {
+  id: 4
+  name: 'vodafone'
+}
+item {
+  id: 5
+  name: 'gulf'
+}
+item {
+  id: 6
+  name: 'aircel'
+}
+item {
+  id: 7
+  name: 'huawei'
+}
